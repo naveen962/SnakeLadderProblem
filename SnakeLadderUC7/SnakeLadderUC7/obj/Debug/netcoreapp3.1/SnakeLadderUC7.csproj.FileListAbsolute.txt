@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.exe
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.deps.json
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.runtimeconfig.json
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.dll
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\bin\Debug\netcoreapp3.1\SnakeLadderUC7.pdb
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.dll
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.pdb
+C:\Users\INDIA\source\repos\SnakeLadderUC7\SnakeLadderUC7\obj\Debug\netcoreapp3.1\SnakeLadderUC7.genruntimeconfig.cache
